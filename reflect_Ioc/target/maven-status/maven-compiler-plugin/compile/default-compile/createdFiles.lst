@@ -1,0 +1,12 @@
+com\yzzg\biz\service\BookService.class
+com\yzzg\biz\service\impl\UserServiceImpl.class
+com\yzzg\biz\pojo\Book.class
+com\yzzg\biz\service\UserService.class
+com\yzzg\biz\dao\impl\UserDaoImpl.class
+com\yzzg\biz\reflect\ApplicationContext.class
+com\yzzg\biz\dao\impl\BookDaoImpl.class
+com\yzzg\biz\service\impl\BookServiceImpl.class
+com\yzzg\biz\dao\UserDao.class
+com\yzzg\biz\reflect\BootStrap.class
+com\yzzg\biz\dao\BookDao.class
+com\yzzg\biz\pojo\User.class

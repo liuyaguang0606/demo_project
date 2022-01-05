@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="JVM" />
+        <module name="day_19_Map" />
+        <module name="day_21_Thread" />
+        <module name="20210309" />
+        <module name="day_18_Collection" />
+        <module name="day_22" />
+        <module name="day_20" />
+        <module name="reflect_Ioc" />
+        <module name="day_26" />
+        <module name="day_25" />
+        <module name="java8" />
+        <module name="day_24" />
+        <module name="day_01" />
+        <module name="day_17" />
+        <module name="day_28" />
+        <module name="day_27" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="day_21" target="8" />
+      <module name="jvm" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

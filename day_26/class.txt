@@ -1,0 +1,2 @@
+className=com.yzzg.biz.reflect_04.Student
+methodName=eat

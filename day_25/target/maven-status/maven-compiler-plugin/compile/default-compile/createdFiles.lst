@@ -1,0 +1,15 @@
+com\yzzg\biz\socket_udp_02\SendDemo.class
+com\yzzg\biz\socket_udp_05\ReceiveUpgradDemo.class
+com\yzzg\biz\socket_tcp_05\ServerDemo.class
+com\yzzg\biz\socket_udp_05\SendDemo.class
+com\yzzg\biz\socket_tcp_03\ReceiveDemo.class
+com\yzzg\biz\socket_tcp_05\ClientDemo.class
+com\yzzg\biz\socket_tcp_05\ClientUpgradDemo.class
+com\yzzg\biz\socket_udp_02\ReceiveDemo.class
+com\yzzg\biz\socket_udp_05\ReceiveDemo.class
+com\yzzg\biz\socket_tcp_04\SendDemo.class
+com\yzzg\biz\socket_tcp_04\RecevieDemo.class
+com\yzzg\biz\socket_tcp_03\SendDemo.class
+com\yzzg\biz\socket_tcp_05\ServerUpgradDemo.class
+com\yzzg\biz\socket_udp_05\SendUpgradDemo.class
+com\yzzg\biz\inetaddress\InetAddressDemo.class
